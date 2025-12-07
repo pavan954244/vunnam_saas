@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#4F46E5"        # Indigo
+backgroundColor="#020617"     # Slate-950
+secondaryBackgroundColor="#0F172A"  # Slate-900
+textColor="#E5E7EB"           # Gray-200
+font="sans serif"
